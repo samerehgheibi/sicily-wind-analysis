@@ -1,4 +1,4 @@
-# ignore CDS API credentials
+# ignore Copernicus CDS credentials
 .cdsapirc
 
 # ignore Python env and bytecode
