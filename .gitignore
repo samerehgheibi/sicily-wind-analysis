@@ -1,7 +1,7 @@
-# Ignore Copernicus CDS credentials
+# ignore CDS API credentials
 .cdsapirc
 
-# Ignore Python virtual environment
+# ignore Python env and bytecode
 venv/
 __pycache__/
 *.pyc
