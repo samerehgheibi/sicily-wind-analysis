@@ -1,7 +1,14 @@
-# ignore Copernicus CDS credentials
+# ignore credentials
 .cdsapirc
 
 # ignore Python env and bytecode
 venv/
 __pycache__/
 *.pyc
+
+# ignore all data files
+*.parquet
+*.geojson
+*.pbf
+*.csv
+*.exe
